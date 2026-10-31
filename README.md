@@ -2,6 +2,6 @@
 
 Писательский челлендж на 30 дней: реальные задания 250-word Microfiction Challenge от [NYC Midnight](https://www.nycmidnight.com/) с условиями на русском, пересказами и разборами рассказов-победителей.
 
-Сайт: https://midnight.tigven.com/ (VPS, `./deploy.sh`); зеркало на GitHub Pages: https://tigven.github.io/polnochnyj-noyabr/
+Сайт: https://midnight.tigven.com/ (VPS, `./deploy.sh`).
 
 Рассказы принадлежат их авторам; здесь только пересказы, разборы и ссылки на оригиналы.
